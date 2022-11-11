@@ -90,6 +90,7 @@
     <ClCompile Include="..\src\proto-vnc.c" />
     <ClCompile Include="..\src\proto-x509.c" />
     <ClCompile Include="..\src\proto-zeroaccess.c" />
+    <ClCompile Include="..\src\proto-minecraft.c" />
     <ClCompile Include="..\src\rand-blackrock.c" />
     <ClCompile Include="..\src\rand-lcg.c" />
     <ClCompile Include="..\src\rand-primegen.c" />
@@ -191,6 +192,7 @@
     <ClInclude Include="..\src\proto-vnc.h" />
     <ClInclude Include="..\src\proto-x509.h" />
     <ClInclude Include="..\src\proto-zeroaccess.h" />
+    <ClInclude Include="..\src\proto-minecraft.h" />
     <ClInclude Include="..\src\rand-blackrock.h" />
     <ClInclude Include="..\src\rand-lcg.h" />
     <ClInclude Include="..\src\rand-primegen.h" />

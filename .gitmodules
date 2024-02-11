@@ -1,0 +1,3 @@
+[submodule "minescan"]
+	path = minescan
+	url = https://github.com/adrian154/minescan
